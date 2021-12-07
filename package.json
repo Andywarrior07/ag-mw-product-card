@@ -36,6 +36,15 @@
   "name": "ag-mw-product-card",
   "author": "AndyWarrior07",
   "module": "dist/ag-mw-product-card.esm.js",
+  "repository": {
+    "url": "https://github.com/Andywarrior07/ag-mw-product-card",
+    "type": "git"
+  },
+  "keywords": [
+    "react",
+    "product-card",
+    "example"
+  ],
   "size-limit": [
     {
       "path": "dist/ag-mw-product-card.cjs.production.min.js",
